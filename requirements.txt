@@ -1,0 +1,8 @@
+selenium==3.5.0
+xmltodict==0.10.2
+--extra-index-url https://pip.dialoggroup.biz/simple/
+crowd==0.10.16
+robotframework-pabot==0.30
+
+https://pip.dialoggroup.biz/packages/robotframework-Web2Library-0.1.327.dev0.zip#md5=6a8eda64e0dd4cffbbb00ddbf03dcc7b
+lxml==3.6.0

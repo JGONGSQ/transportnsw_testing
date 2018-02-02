@@ -1,0 +1,11 @@
+<?xml version ="1.0"?>
+<uiMap>
+	<trip_planner_home>
+		<trip_planner_home type = "url">${BASE_URL}${page_url}</trip_planner_home>
+		<trip_planner_home type = "pageCheck">Trip Planner</trip_planner_home>
+		<from_origin type = "input">xpath=.//*[@id='search-input-From']</from_origin>
+		<to_destination type = "input">xpath=.//*[@id='search-input-To']</to_destination>
+		<go type = "button" modifier="noframe">xpath=.//*[@id='search-button']</go>
+		<result_list type = "element">xpath=.//*[@id='tp-result-list']</result_list>
+	</trip_planner_home>
+</uiMap>
